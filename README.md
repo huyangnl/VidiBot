@@ -3,6 +3,8 @@ Vidibot 是一款功能强大的多媒体上传处理工具，专为自动化视
 
 一个工具搞定多平台多账号批量视频上传（Youtube Facebook TikTok Instagram VK 抖音 BiliBili Pinterest Twitter 视频号 快手）
 
+![2.6正式版](https://code.fpser.com/wp-content/uploads/2024/11/vidibot2.6-1536x1045.png "VidiBot 2.6正式版")
+
 # 最低要求
 建议使用环境：Windows 10 以上实测均可使用，Win10以下版本未经过测试
 
