@@ -9,9 +9,6 @@ Vidibot 是一款功能强大的多媒体上传处理工具，专为自动化视
 
 <img width="996" height="972" alt="image" src="https://github.com/user-attachments/assets/0bf6747f-0ebd-4d0c-95f5-bf40b1496dce" />
 
-![wechat_2025-04-23_021209_280](https://github.com/user-attachments/assets/dd240057-d8ad-429c-8c18-4fa42ecafbaf)
-
-
 # 最低要求
 建议使用环境：Windows 10 以上实测均可使用，Win10以下版本未经过测试
 
