@@ -28,14 +28,15 @@ Vidibot 是一款功能强大的多媒体上传处理工具，专为自动化视
 - Pinterest
 - Facebook短视频
 - Facebook长视频
-- Vk短视频
-- Vk长视频
+- Vk短视频（俄罗斯）
+- Vk长视频（俄罗斯）
+- -Dzen（俄罗斯）
 - LinkedIn
 - 抖音
 - BiliBili
 - 视频号
 - 快手
-- 微博（文本类型）
+- 微博
 - 小红书
 
 # 支持指纹浏览器
