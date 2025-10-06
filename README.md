@@ -36,14 +36,15 @@ Vidibot 是一款功能强大的多媒体上传处理工具，专为自动化视
 - 微博
 - 小红书
 
-# 支持指纹浏览器（截至2025年9月底）
+# 支持指纹浏览器（截至2025年10月）
 - Bitbrowser（免费Bitbrowser用户也支持）
 - AdsPower（仅AdsPower订阅用户）
 - Hubstudio（仅Hubstudio订阅用户）
 - VMlogin（仅VMlogin订阅用户）
+- OkBrowser（仅OkBrowser订阅用户）
 
 # VidiBot 下载
-- VidiBot 正式发布版（V3.0.7 正式版）（2025年9月25日）
+- VidiBot 正式发布版（V3.0.9 正式版）（2025年9月25日）
 - 下载地址：百度网盘 https://pan.baidu.com/s/1mbP16-BbhAs4Vpo9q55x8g?pwd=dg4f
 - 注意：如果不填写授权注册码直接使用就是免费版啦！（全功能都可以用，只限上传数量）
 
