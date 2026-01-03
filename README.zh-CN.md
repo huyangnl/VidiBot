@@ -1,9 +1,31 @@
+<p align="center">
+  <img src="images/banner.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/huyangnl/VidiBot?style=flat-square" />
+  <img src="https://img.shields.io/github/forks/huyangnl/VidiBot?style=flat-square" />
+  <img src="https://img.shields.io/github/license/huyangnl/VidiBot?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/huyangnl/VidiBot?style=flat-square" />
+  <img src="https://img.shields.io/badge/platform-Windows%2010%2B-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/type-Automation%20Tool-success?style=flat-square" />
+</p>
+
+<p align="center">
+  这是一款商业授权使用的闭源多平台视频自动化发布工具。
+</p>
+
 # VidiBot 多平台视频批量上传工具（免费）
 Vidibot 是一款功能强大的多媒体上传处理工具，专为自动化视频上传各种视频平台而设计。通过灵活的脚本支持和直观的操作方式，Vidibot 可广泛应用于个人创作、教育、广告及企业级视频制作场景。它支持多种主流视频格式，具备高效的处理速度和稳定性。
+📄 English version → [README.md](./README.md)
 
-- 特点：支持多线程，多账号，多平台，任务混编，通过指纹浏览器提供账号隔离，无需平台API；支持云主机运行
-- 特点：各种子功能根据国人需求量身打造，支持标题、说明、缩略图、字幕、定时启动、定时发布、上传结果记录、日志等数十项非常细化的功能；
-- 特点：免费版具备全部功能！只在上传视频数量上受限；
+---
+
+## ⭐ 特点
+
+- **支持多线程，多账号，多平台，任务混编，通过指纹浏览器提供账号隔离，无需平台API；支持云主机运行
+- **各种子功能根据国人需求量身打造，支持标题、说明、缩略图、字幕、定时启动、定时发布、上传结果记录、日志等数十项非常细化的功能；
+- **免费版具备全部功能！只在上传视频数量上受限；
 
 一个工具搞定多平台多账号批量视频上传（Youtube Facebook TikTok Instagram VK 抖音 BiliBili Pinterest Twitter 视频号 快手）
 
