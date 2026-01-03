@@ -1,0 +1,44 @@
+Copyright (c) 2026 huyangnl
+
+All rights reserved.
+
+────────────────────────────────────────────
+中文许可说明（优先适用）
+────────────────────────────────────────────
+
+VidiBot 是一款闭源商业软件，受著作权法及相关法律保护。
+
+未经版权所有者明确书面授权，任何个人或组织不得进行以下行为，包括但不限于：
+
+1. 复制、修改、反编译、反汇编或以其他方式尝试获取本软件的源代码；
+2. 以任何形式对本软件进行再分发、出租、出售、转授权或公开传播；
+3. 将本软件或其任何部分用于未经授权的商业用途；
+4. 绕过、破解或尝试绕过本软件的授权、许可或技术保护机制。
+
+在获得合法授权的前提下，用户可按照授权协议的约定，
+在许可范围内使用本软件用于个人或商业目的。
+
+本 GitHub 仓库仅用于 VidiBot 产品的介绍与说明，
+不包含软件源代码或完整实现。
+
+如需获取授权或商业合作，请联系版权所有者。
+
+────────────────────────────────────────────
+English License Notice
+────────────────────────────────────────────
+
+VidiBot is proprietary, closed-source commercial software
+protected by applicable copyright laws.
+
+Without explicit written permission from the copyright holder,
+you may not copy, modify, reverse engineer, decompile,
+redistribute, sublicense, sell, lease, or otherwise exploit
+this software or any portion of it.
+
+Authorized users may use the software strictly in accordance
+with the terms of the applicable license agreement.
+
+This GitHub repository is provided for product presentation
+purposes only and does not include the source code.
+
+For licensing inquiries, please contact the copyright holder.
