@@ -20,6 +20,7 @@
 
 **VidiBot** is a powerful multimedia upload and automation tool designed to help users upload videos across multiple video platforms efficiently using fingerprint browser automation without platform APIs. It supports flexible scripting, detailed upload control, logging, scheduling, and multi-account/multi-platform workflows.
 
+>📄 中文说明请见 → [README.zh-CN.md](./README.zh-CN.md)
 ---
 
 ## ⭐ Features
