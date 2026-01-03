@@ -7,7 +7,9 @@ Vidibot 是一款功能强大的多媒体上传处理工具，专为自动化视
 
 一个工具搞定多平台多账号批量视频上传（Youtube Facebook TikTok Instagram VK 抖音 BiliBili Pinterest Twitter 视频号 快手）
 
-<img width="996" height="972" alt="image" src="https://github.com/user-attachments/assets/0bf6747f-0ebd-4d0c-95f5-bf40b1496dce" />
+<img width="1072" height="705" alt="wechat_2026-01-03_095919_662" src="https://github.com/user-attachments/assets/bd815dc7-cbeb-4adb-865e-0a2b20dabf0c" />
+<img width="1072" height="705" alt="wechat_2026-01-03_100235_491" src="https://github.com/user-attachments/assets/16eb0291-78ee-4c6b-b35e-1193ff1cc7c0" />
+<img width="1072" height="705" alt="wechat_2026-01-03_100309_186" src="https://github.com/user-attachments/assets/0fb783da-f864-4778-8ad4-b13dccca1e0d" />
 
 # 最低要求
 建议使用环境：Windows 10 以上实测均可使用，Win10以下版本未经过测试
