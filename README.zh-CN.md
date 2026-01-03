@@ -81,7 +81,8 @@ VidiBot 是一款商业授权的，闭源的，用于 **自动化批量上传视
 **最新版本：** V3.2.1（2025-12-20）  
 
 **下载地址：**  
-https://pan.baidu.com/s/1mbP16-BbhAs4Vpo9q55x8g?pwd=dg4f
+- Baidu Disk：https://pan.baidu.com/s/1mbP16-BbhAs4Vpo9q55x8g?pwd=dg4f
+- Google Drive: https://drive.google.com/drive/folders/1PoH8PHtsCXuMR6aHojIl3zojBZ2ESUW6?usp=sharing
 
 > ⚠️ 提示：  
 > 若未填写授权注册码，也可正常使用，默认进入 **免费模式**，功能完整，仅上传数量受限。
