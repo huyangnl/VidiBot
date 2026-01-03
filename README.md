@@ -12,15 +12,15 @@
 </p>
 
 <p align="center">
-  A multi-platform video upload automation tool supporting bulk tasks,  
+  A licensed, closed-source multi-platform video upload automation tool supporting bulk tasks,  
   multi-account workflows, and fingerprint browser environments.
 </p>
 
 # VidiBot — Multi-Platform Bulk Video Upload Tool (Free)
 
-**VidiBot** is a powerful multimedia upload and automation tool designed to help users upload videos across multiple video platforms efficiently using fingerprint browser automation without platform APIs. It supports flexible scripting, detailed upload control, logging, scheduling, and multi-account/multi-platform workflows.
+**VidiBot** is a licensed, closed-source powerful multimedia upload and automation tool designed to help users upload videos across multiple video platforms efficiently using fingerprint browser automation without platform APIs. It supports flexible scripting, detailed upload control, logging, scheduling, and multi-account/multi-platform workflows.
+📄 中文说明请见 → [README.zh-CN.md](./README.zh-CN.md)
 
->📄 中文说明请见 → [README.zh-CN.md](./README.zh-CN.md)
 ---
 
 ## ⭐ Features
