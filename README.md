@@ -58,6 +58,17 @@ VidiBot is suitable for:
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="./images/dashboard.png" width="32%">
+  <img src="./images/fingerprint-env.png" width="32%">
+  <img src="./images/running-log.png" width="32%">
+  <img src="./images/task_list.png" width="32%">
+</p>
+
+---
+
 ### 2️⃣ Wide Platform Coverage
 
 VidiBot currently supports publishing to the following platforms:
