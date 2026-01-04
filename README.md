@@ -64,7 +64,6 @@ VidiBot is suitable for:
   <img src="./images/dashboard.png" width="32%">
   <img src="./images/fingerprint-env.png" width="32%">
   <img src="./images/running-log.png" width="32%">
-  <img src="./images/task_list.png" width="32%">
 </p>
 
 ---
