@@ -11,120 +11,167 @@
   <img src="https://img.shields.io/badge/type-Automation%20Tool-success?style=flat-square" />
 </p>
 
-<p align="center">
-  A licensed, closed-source multi-platform video upload automation tool supporting bulk tasks,  
-  multi-account workflows, and fingerprint browser environments.
-</p>
-
 # VidiBot — Multi-Platform Bulk Video Upload Tool (Free)
 
-**VidiBot** is a powerful multimedia upload and automation tool designed to help users upload videos across multiple video platforms efficiently using fingerprint browser automation without platform APIs. It supports flexible scripting, detailed upload control, logging, scheduling, and multi-account/multi-platform workflows.
->📄 中文说明请见 → [README.zh-CN.md](./README.zh-CN.md)
+> **Professional Multi-Platform Video Publishing Automation Tool**  
+> Automate video uploads across platforms with real browser environments
 
 ---
 
-## ⭐ Features
+## 🚀 Overview
 
-- **Multi-threading, multi-account, and multi-platform support**  
-  Seamlessly combine uploads across platforms using fingerprint browsers for account isolation, no API keys required.
-- **Rich upload controls:** title, description, thumbnail, subtitles, scheduled start/publish, detailed logs, upload results, and more.
-- **Free version includes full features**, only upload count is limited.
-- Designed for creators, educators, advertisers, and enterprise video production workflows.
+**VidiBot** is a professional **video publishing automation software** designed for  
+**content creators, studios, and business teams**.
 
----
+It enables automated video uploads to multiple domestic and international platforms  
+by using **real browser automation combined with fingerprint browser environments**,  
+without relying on official platform APIs.
 
-## ⚙️ Minimum Requirements
-
-- **Operating System:** Windows 10 or later (tested)
-- **Hardware:** At least **8 GB RAM** recommended for smooth operation, especially in multi-thread mode.
-- **Note for China users:** A stable VPN may be required for international platform access.
+VidiBot is built for **long-term, stable, and scalable usage**,  
+rather than short-lived scripts or experimental automation tools.
 
 ---
 
-## 📌 Supported Video Platforms  
-*(Updated December 2025 — currently latest as of early 2026)*
+## 🎯 Target Users
 
-VidiBot supports uploading to:
+VidiBot is suitable for:
 
+- 🎥 **Individual Creators / Self-Media Operators**  
+  Publish the same content to multiple platforms efficiently
+- 🧑‍🤝‍🧑 **Studios / MCN Teams**  
+  Manage multiple accounts and platforms with standardized workflows
+- 🏢 **Companies / Brands**  
+  Operate official account matrices and reduce manual publishing costs
+- 🌍 **Cross-Border / Overseas Teams**  
+  Manage platforms such as YouTube, TikTok, Instagram, and more
+
+---
+
+## ✨ Key Features
+
+### 1️⃣ Real Browser Automation (No API Dependency)
+
+- Automates publishing through **real browser operations**
+- Does not rely on official platform APIs
+- Less affected by API limitations, quotas, or policy changes
+- Designed to simulate real human publishing behavior
+
+---
+
+### 2️⃣ Wide Platform Coverage
+
+VidiBot currently supports publishing to the following platforms:
+
+#### 🌍 International Platforms
 - YouTube  
 - TikTok  
 - Instagram  
-- Twitter  
-- Pinterest  
-- Facebook (Short & Long Videos)  
-- VK (Short & Long Videos – Russia)  
-- Dzen (Russia)  
+- Facebook (Reels / Videos)  
+- Twitter (X)  
 - LinkedIn  
-- Douyin (China)  
-- BiliBili  
-- WeChat Video Account  
+- Pinterest  
+- VK / Dzen  
+
+#### 🇨🇳 China Platforms
+- Douyin  
+- Bilibili  
+- WeChat Channels  
 - Kuaishou  
 - Weibo  
-- Xiaohongshu (RED)
+- Xiaohongshu  
+
+Supports both **short-form and long-form video workflows**, depending on platform rules.
 
 ---
 
-## 🧠 Supported Fingerprint Browsers  
-*(Updated December 2025 — current)*
+### 3️⃣ Multi-Account & Environment Isolation
 
-- **Bitbrowser** (Free supported)
-- **AdsPower** (Subscription)
-- **Hubstudio** (Subscription)
-- **VMlogin** (Subscription)
-- **OkBrowser** (Subscription)
-
----
-
-## 📥 Download
-
-- **Latest Stable Version:** `VidiBot v3.2.1` — December 20, 2025
-- **Download Link (Baidu Netdisk):**  
-  https://pan.baidu.com/s/1mbP16-BbhAs4Vpo9q55x8g?pwd=dg4f
-
-> If you skip entering a license/authorization code, VidiBot runs in free mode with full feature access but limited upload quantity.
+- Supports mainstream **fingerprint browsers**, including:
+  - BitBrowser
+  - AdsPower
+  - Hubstudio
+  - VMLogin
+  - OkBrowser
+- Each account runs in an isolated browser environment
+- Helps reduce account association risks
+- Suitable for account matrices and team operations
 
 ---
 
-## 📝 Changelog (Recent Versions)
+### 4️⃣ Flexible Publishing Configuration
 
-### V3.2.2 Beta 3 — *January 1, 2026*
-- Fixed `is_video_within_seconds` method error when checking certain MKV file durations.  
-- Improved browser startup failure handling with an additional retry.
+For each video task, VidiBot supports configuration of:
 
-### V3.2.2 Beta 2 — *December 30, 2025*
-- Fixed adaptation for different Instagram homepage upload button layouts.
+- Title and description
+- Thumbnail (cover image)
+- Subtitle files
+- Scheduled publishing
+- Publishing status tracking and detailed logs
 
-### V3.2.2 Beta 1 — *December 29, 2025*
-- Fixed Hubstudio startup path error when browser state update option is unchecked.  
-- Fixed upload completion detection bug for all platforms.  
-- Improved Instagram post-upload UI handling.
-
-### V3.2.1 — *December 20, 2025*
-- Fixed UI button display issue when switching control modes.
-
-### V3.2.1 Beta (Nov–Dec 2025)
-- Custom browser window size support.  
-- Fixed TikTok product link and confirm popup bugs.  
-- Added global task stop button.  
-- Numerous fixes for YouTube, Facebook, and multi-platform upload flows.
-
-### V3.2.0 — *November 13, 2025*
-- Added export of logs/analysis to Excel.  
-- General updates to automatic updater and YouTube management task logic.
-
-*(The repository includes full historical logs going backward to earlier versions 3.1.x, 3.0.x, and 2.x including major feature additions and bug fixes.)* 
+Automation is **controllable, traceable, and reviewable**.
 
 ---
 
-## 📌 About
+### 5️⃣ Stability & Continuous Maintenance
 
-**VidiBot** is built to automate and streamline bulk video uploads across numerous social and video platforms. By utilizing fingerprint browsers instead of APIs, it provides wide compatibility and avoids frequent API key restrictions. It suits scenarios from individual video creators to marketing teams and enterprise video workflows.
+- Automatic error detection and retry mechanisms
+- Detailed execution logs
+- Continuous adaptation to platform UI changes
+- Actively maintained and iterated in real production environments
 
 ---
 
-## 📷 Screenshots
-<img src="https://github.com/huyangnl/VidiBot/blob/main/images/01.png">
-<img src="https://github.com/huyangnl/VidiBot/blob/main/images/02.png">
-<img src="https://github.com/huyangnl/VidiBot/blob/main/images/03.png">
+## 🧠 Design Principles
+
+> **Automation is not about fragile scripts**
+
+VidiBot follows these core principles:
+
+- Stability first
+- Human-like operation
+- Long-term maintainability
+- Commercially friendly licensing model
+
+---
+
+## 💻 System Requirements
+
+- Windows 10 or later
+- Recommended memory: 8 GB or more
+- Stable network connection  
+  (Proxy or VPN may be required for some international platforms)
+
+---
+
+## 🔐 Licensing & Usage
+
+- VidiBot is **closed-source commercial software**
+- A **Free Mode** is available for evaluation and light usage
+- **Licensed Mode** unlocks higher usage limits and long-term operation
+- Supports personal, team, and commercial usage (depending on license type)
+
+👉 **Please read the detailed authorization terms and FAQ:**  
+📄 [Authorization & FAQ](./AUTHORIZATION.md)
+
+---
+
+## 📌 Current Version
+
+- Latest stable version: **VidiBot v3.x**
+- The project is actively maintained and updated
+
+---
+
+## 📬 Contact & Support
+
+If you want to:
+
+- Confirm whether VidiBot fits your use case
+- Obtain a license
+- Use VidiBot for team or commercial purposes
+- Request customization or platform adaptation
+
+Please refer to the contact information provided in this repository.
+
 ---
 
