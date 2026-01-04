@@ -170,6 +170,7 @@ If you want to:
 - Obtain a license
 - Use VidiBot for team or commercial purposes
 - Request customization or platform adaptation
-**Email**：achille.hu@gmail.com 
+
+📩 **Email**：achille.hu@gmail.com 
 ---
 
