@@ -172,6 +172,20 @@ VidiBot follows these core principles:
 
 ---
 
+## ⬇️ Trial & Download
+
+You can try VidiBot in **Free Mode** before purchasing a license.
+
+- Free Mode provides full functionality with usage limits
+- Licensed Mode unlocks higher usage capacity
+
+👉 **Trial download & updates:**  
+🌐 [https://www.vidibot.com](https://drive.google.com/drive/folders/1PoH8PHtsCXuMR6aHojIl3zojBZ2ESUW6?usp=sharing)
+
+> Authorization details: [Authorization & FAQ](./AUTHORIZATION.md)
+
+--- 
+
 ## 📬 Contact & Support
 
 If you want to:
