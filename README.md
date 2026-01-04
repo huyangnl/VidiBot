@@ -170,8 +170,6 @@ If you want to:
 - Obtain a license
 - Use VidiBot for team or commercial purposes
 - Request customization or platform adaptation
-
-Please refer to the contact information provided in this repository.
-
+**Email**：achille.hu@gmail.com 
 ---
 
