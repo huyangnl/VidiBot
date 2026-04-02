@@ -126,6 +126,7 @@ VidiBot 从一开始就不是“写几个自动化脚本”，而是围绕以下
 |------|------|
 | YouTube | ✔ |
 | TikTok | ✔ |
+| TikTok 短剧内容合作平台| ✔ |
 | Instagram | ✔ |
 | Twitter | ✔ |
 | Pinterest | ✔ |
