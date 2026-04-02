@@ -74,7 +74,8 @@ VidiBot currently supports publishing to the following platforms:
 
 #### 🌍 International Platforms
 - YouTube  
-- TikTok  
+- TikTok
+- TikTok Content Partner Hub
 - Instagram  
 - Facebook (Reels / Videos)  
 - Twitter (X)  
